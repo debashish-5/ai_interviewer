@@ -1,4 +1,4 @@
-
+ 
 # AI Interviewer & Simulation Tool
 
 An AI-powered tool designed to help students and candidates practice job interviews through interactive role-play and simulation. It simulates both interviewer questions and realistic candidate responses to give you real-time practice and insight into technical and behavioral interviews.
